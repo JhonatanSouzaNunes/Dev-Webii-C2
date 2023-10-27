@@ -16,8 +16,8 @@ Atenção: se você não estiver usando Linux, terá que comentar a seção do P
 
 # Como rodar o projeto:
 
-- Faça o download do diretório c1 e de todo o seu conteúdo (ou faça um clone deste repositório inteiro);
-- Dentro do diretório c1/backend existe um arquivo para o Docker Compose, o docker-compose.yml. Dê uma olhada nesse arquivo e:
+- Faça o download do diretório c2 e de todo o seu conteúdo (ou faça um clone deste repositório inteiro);
+- Dentro do diretório c2/backend existe um arquivo para o Docker Compose, o docker-compose.yml. Dê uma olhada nesse arquivo e:
 - Verifique se as portas utilizadas não causarão conflito com alguma porta já em uso no seu computador. As portas que estão configuradas são:
 
       27017 (para o MongoDB)
