@@ -1,6 +1,6 @@
 # Dev-Web-II-C2
 
-Este é meu repositório para o projeto de desenvolvimento da Avaliação C.
+Este é meu repositório para o projeto de desenvolvimento da da API para Avaliação C2.
 
 # O QUE FOI USADO:
 - A API agora usa o MongoSB Atlas para utilizar como repositorio de banco de dados NoSQL na nuvem.
